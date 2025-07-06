@@ -2,3 +2,4 @@
 14-longest-common-prefix|Easy|1751308200000
 20-valid-parentheses|Easy|1751481000000
 69-sqrtx|Easy|1751567400000
+26-remove-duplicates-from-sorted-array|Easy|1751740200000
