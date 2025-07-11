@@ -5,3 +5,4 @@
 26-remove-duplicates-from-sorted-array|Easy|1751740200000
 202-happy-number|Easy|1751740200000
 35-search-insert-position|Easy|1751999400000
+58-length-of-last-word|Easy|1752172200000
