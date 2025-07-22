@@ -7,3 +7,4 @@
 35-search-insert-position|Easy|1751999400000
 58-length-of-last-word|Easy|1752172200000
 231-power-of-two|Easy|1752690600000
+27-remove-element|Easy|1753122600000
